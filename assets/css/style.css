@@ -80,6 +80,9 @@ Tamaño del titulo dentro del banner
 	font-size: 5em;
 }
 
+/*
+Estilo de todos los botones
+*/
 button {
 	background-color: #A00BB6;
 	color: #fff;
@@ -90,16 +93,25 @@ button {
 	border: none;
 }
 
+/*
+Hover de todos los botones
+*/
 button:hover {
 	color: #fff;
 	cursor: pointer;
 	background-color: #F9A8CE;
 }
 
+/*
+Margin de la sección pictures
+*/
 .pictures {
 	margin-top: 5%;
 }
 
+/*
+Estilos de las imágenes contenidas en la sección pictures
+*/
 .note, .cats, .bears {
 	width: 18.75em;
 	height: 12.5em;
@@ -107,6 +119,9 @@ button:hover {
 	object-fit: cover
 }
 
+/*
+Estilo y posicionamiento del footer
+*/
 footer {
 	text-align: center;
 	background-color: #8B2459;
