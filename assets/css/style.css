@@ -1,7 +1,6 @@
 /*
 Margin y Padding General
 */
-
 * {
   box-sizing: border-box;
   margin: 0;
@@ -48,6 +47,10 @@ Hover de los anchord
 a:hover {
 	color: #F295DF;
 	cursor: pointer;
+}
+
+.menu {
+	margin-left: 15%;
 }
 
 /*
