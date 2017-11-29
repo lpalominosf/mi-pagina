@@ -5,6 +5,7 @@ Adaptable a Móviles
   [class*="col-"] {
     max-width:100%;
     flex: none;
+    text-align: center;
   }
   header {
   	height: 4em;
