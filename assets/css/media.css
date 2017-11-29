@@ -5,6 +5,27 @@ Adaptable a Móviles
   [class*="col-"] {
     max-width:100%;
     flex: none;
-    text-align: center;
   }
+  header {
+  	height: 4em;
+  	font-size: 30px;
+  }
+  .cute {
+  	float: left;
+  	padding: 2%;
+  }
+  .fa-bars {
+	display: inline-block;
+	margin-top: -50px;
+	float: right;
+	}
+	.menu {
+		visibility: hidden;
+	}
+}
+
+@media (min-width: 768px) {
+	.fa-bars {
+		visibility: hidden;
+	}
 }

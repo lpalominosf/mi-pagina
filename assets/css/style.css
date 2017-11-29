@@ -35,14 +35,6 @@ header {
 }
 
 /*
-Hover del Header
-*/
-header:hover {
-	cursor: pointer;
-	color: #F295DF;
-}
-
-/*
 Sacamos la decoración de los anchord
 */
 a {
@@ -130,4 +122,5 @@ footer {
 	padding: 2%;
 	margin-top: 5%;
 }
+
 
